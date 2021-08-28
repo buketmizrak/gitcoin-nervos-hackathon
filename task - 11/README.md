@@ -1,12 +1,5 @@
 ## Gitcoin: 11) Use A Tron Wallet To Execute A Smart Contract Call
 
-.
- (in text format).
- (in text format).
- (in text format).
- (in text format).
-
-
 
 ### 1- A screenshot of the accounts you created (account list)
 
